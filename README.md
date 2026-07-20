@@ -95,7 +95,16 @@ OS: Windows 10 (Windows 11도 가능하지만 결과에 차이가 있을 수 있
 ```
 
 -------------------------------------------------------------------
-    
+
+6. jupyter notebook 가동
+
+```
+   jupyter notebook
+```
+또는
+```
+   python -m notebook
+```
 </div>
 
 가상 환경 전환 
